@@ -1,0 +1,7 @@
+@"
+venv/
+__pycache__/
+chroma*/
+chunks.json
+*.pdf
+"@ | Set-Content -Encoding ascii .gitignore
